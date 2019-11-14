@@ -1,0 +1,41 @@
+Invoice
+Invoice Number Invoice Date Page 1 of 2
+30015385 28-FEB-19
+Payment Terms Due Date Invoice Period
+UK Ltd
+30 NET 30-MAR-19 FEB-2019
+PO Number IO Number Cust Vat Reg.
+United Kingdom
+
+ 
+Bill To: Name : ABC Advertiser: ABC
+Address : Stadium
+London  United Kingdom
+Line  Item Description Amount VAT Rate Currency Total Amount
+No.
+1 SKU1 258,384.60 20.00% GBP 310,061.52
+2 SKU2 -129,192.30 20.00% GBP -155,030.76
+Please remit to:
+Bank Name: Citibank Sub-Total
+GBP 100,100.30
+Account Name: UK Ltd.
+Deposit Account No: 1xxxx87
+Currency: GBP
+VAT Amount
+GBP 25,000.46
+Bank Branch/Address: London, 
+United Kingdom
+SWIFT: CITIGB2L
+Total
+GBP 125,000.00
+ 
+ Invoice
+Invoice Number Invoice Date Page 2 of 2
+300XXXX 28-FEB-19
+Payment Terms Due Date Invoice Period
+UK Ltd
+30 NET 30-MAR-19 FEB-2019
+PO Number IO Number Cust Vat Reg.
+London
+IO Name
+United Kingdom
